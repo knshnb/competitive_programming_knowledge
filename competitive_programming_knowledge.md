@@ -154,6 +154,9 @@ REP(i, n) {
   - (1+x)^nのx^cの係数 = (1+x)^(n-c) * (1+x^-1)^cの定数項として等比数列の和の公式使うと結構色々示せる
     - https://atcoder.jp/contests/abc154/tasks/abc154_f
 
+- (max, maxの個数)はモノイドをなす
+    - LISの個数をセグ木で求められる: https://yukicoder.me/submissions/432057
+
 competitive_programming_note.md
 ---
 # 競プロ注意点まとめ
